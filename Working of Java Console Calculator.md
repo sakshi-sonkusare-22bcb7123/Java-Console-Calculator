@@ -6,7 +6,7 @@
 <img width="975" height="577" alt="image" src="https://github.com/user-attachments/assets/1ac6311e-3d66-407f-b370-2d5e320a5b13" />
 
 
-## Run the code using terminal ^^
+## ^^Run the code using terminal 
 
 
 <img width="975" height="59" alt="image" src="https://github.com/user-attachments/assets/aaae09c2-5e4c-4190-bd53-33401523add8" />
